@@ -7,6 +7,9 @@ This text editor was made following @s4vitar's online course "Python Ofensivo" o
 This was coded on Python 3.12.1 so you might have problems if your version is too old. Nothing more is needed.
 
 ## Functions
+The main file is editor_texto.py.
+
+In order to run this file open your terminal and run ``python .\editor_texto.py``
 It has four functions:
 
 - Nuevo: Clears the text area in order to write a new file.
